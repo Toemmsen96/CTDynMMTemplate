@@ -1,0 +1,3 @@
+# Ignore the bin and obj folders, which contain compiled files and should not be committed to version control
+[Bb]in
+[Oo]bj
